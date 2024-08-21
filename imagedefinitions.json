@@ -1,6 +1,6 @@
 [
   {
-    "name": "artifactsapiimage",
+    "name": "artifacts",
     "imageUri": "094332077893.dkr.ecr.us-east-2.amazonaws.com/artifactsapiimage:latest"
   }
 ]
